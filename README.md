@@ -7,7 +7,7 @@ open a terminal and run these commands.
 
 > cd cloudweb*
 
-(If git not installed, download zip file, extract and open it, start a terminal in the folder)
+(If git not installed, download zip file, extract and open it, start a terminal in the folder and run below commands)
 
 > pip install virtualenv
 
