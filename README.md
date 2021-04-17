@@ -1,9 +1,13 @@
 # cloudwebsite
 
 open a terminal and run these commands.
+
+(If you have git installed...)
 > git clone https://github.com/targz011/cloudwebsite.git
 
 > cd cloudweb*
+
+(If git not installed, download zip file, extract and open it, start a terminal in the folder)
 
 > pip install virtualenv
 
