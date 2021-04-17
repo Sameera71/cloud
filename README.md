@@ -1,7 +1,7 @@
 # cloudwebsite
 
 open a terminal and run these commands.
-> git clone
+> git clone https://github.com/targz011/cloudwebsite.git
 
 > cd cloudweb*
 
